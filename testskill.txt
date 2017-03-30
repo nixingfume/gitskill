@@ -1,2 +1,3 @@
 test skill branch.
 test merge .
+test merge fast award.
