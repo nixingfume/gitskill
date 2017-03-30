@@ -5,3 +5,4 @@ test merge fast merge again.
 hhh
 wwww
 bug fix
+another modify.git
